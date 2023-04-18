@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LibApp</string>
+    <string name="book_list">Список Книг</string>
+    <string name="sort_by">Сортировка по:</string>
+    <string name="by_author">Автору</string>
+    <string name="by_year">Году</string>
+    <string name="by_title">Названию</string>
+    <string name="add_book">Добавить Книгу</string>
+    <string name="back">Назад</string>
+    <string name="author">Автор</string>
+    <string name="year">Год</string>
+    <string name="title">Название</string>
+</resources>
