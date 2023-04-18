@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("lol");
     }
-
+//
     public void onButtonBookListClick(View view){
         Intent myIntent = new Intent(this, BookListActivity.class);
         this.startActivity(myIntent);
